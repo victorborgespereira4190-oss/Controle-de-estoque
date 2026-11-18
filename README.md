@@ -1,8 +1,7 @@
 # Controle de Estoque da Cantina
 
-**Aluno:** [PREENCHER NOME COMPLETO]  
-**Turma:** [PREENCHER TURMA]  
-**Disciplina:** Desenvolvimento de Software I  
+**Aluno:** Victor Gabriel Borges Pereira-  
+**Disciplina:** Desenvolvimento de Sistemas
 **Tema escolhido:** Opção A — Controle de Estoque da Cantina
 
 ## Descrição
