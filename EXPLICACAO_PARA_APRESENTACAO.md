@@ -1,4 +1,4 @@
-# Explicação para apresentação do projeto
+# Explicação do projeto
 
 ## O que o programa faz?
 É um sistema simples de controle de estoque de uma cantina. Permite cadastrar produtos, consultar os itens, registrar vendas e calcular o valor de tudo que ainda está disponível.
@@ -21,5 +21,3 @@
 6. Tente vender mais 8 unidades: a venda deve ser recusada e o estoque deve continuar com 7.
 7. Tente cadastrar outro produto com código 101: o sistema deve impedir o cadastro.
 
-## O que revisar antes de entregar?
-Preencha seu nome e turma no README. Execute os testes da tabela e escreva os resultados observados, incluindo erros encontrados ou corrigidos. Entenda os métodos e faça sua própria demonstração ao professor.
