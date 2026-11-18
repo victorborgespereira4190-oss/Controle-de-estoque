@@ -49,7 +49,7 @@ O programa impede códigos repetidos, nomes vazios, preços menores ou iguais a 
 | Opção inválida | Digitar 9 no menu | Mostra erro e volta ao menu | A preencher após execução |
 
 ## Limitações
-- Os dados não são salvos após encerrar o programa (permitido pela atividade).
+- Os dados não são salvos após encerrar o programa.
 - O sistema funciona somente no console.
 
 ## Uso de inteligência artificial
