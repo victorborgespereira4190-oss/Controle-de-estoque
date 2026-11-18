@@ -1,6 +1,6 @@
 # Controle de Estoque da Cantina
 
-**Aluno:** Victor Gabriel Borges Pereira-
+**Aluno:** Victor Gabriel Borges Pereira
 
 **Disciplina:** Desenvolvimento de Sistemas
 
