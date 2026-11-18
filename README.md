@@ -1,7 +1,9 @@
 # Controle de Estoque da Cantina
 
 **Aluno:** Victor Gabriel Borges Pereira-
+
 **Disciplina:** Desenvolvimento de Sistemas
+
 **Tema escolhido:** Opção A — Controle de Estoque da Cantina
 
 ## Descrição
