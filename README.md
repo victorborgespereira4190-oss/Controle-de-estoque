@@ -55,5 +55,3 @@ O programa impede códigos repetidos, nomes vazios, preços menores ou iguais a 
 ## Uso de inteligência artificial
 Foi utilizada uma ferramenta de inteligência artificial como apoio na organização inicial do código e na elaboração da documentação. O aluno deve revisar, executar, testar e compreender o programa antes da entrega.
 
-## Entrega
-Publique os arquivos no seu repositório GitHub e entregue o link na atividade do Microsoft Teams. Confira se o status final aparece como **Entregue**.
